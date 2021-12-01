@@ -48,3 +48,10 @@ Thumbs.db
 *.mov
 *.wmv
 
+# Terraform vars
+*.tfvars
+.Terraform.lock.hcl
+.Terraform
+*.tfstate
+*.tfstate.lock.info
+*.tfstate.backup
